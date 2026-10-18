@@ -1,0 +1,3 @@
+kind: generic
+title: imprint-catalog
+description: How imprint installs things. App recipes, distros, window managers and bootloaders, read offline from the commit imprint pins.
